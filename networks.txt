@@ -35,3 +35,5 @@ TaikoHekla=https://taiko-hekla.gateway.tenderly.co
 Beam=https://build.onbeam.com/rpc
 BeamTestnet=https://build.onbeam.com/rpc/testnet
 MonadTestnet=https://testnet-rpc2.monad.xyz/${MONAD_API_KEY}
+Airdao=https://network.ambrosus.io
+AirdaoTestnet=https://network.ambrosus-test.io
