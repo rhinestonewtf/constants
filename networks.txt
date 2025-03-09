@@ -41,3 +41,4 @@ IotaEvm=https://json-rpc.evm.iotaledger.net
 IotaEvmTestnet=https://json-rpc.evm.testnet.iotaledger.net
 Soneium=https://rpc.soneium.org
 SoneiumMinato=https://rpc.minato.soneium.org
+MegaEthTestnet=https://carrot.megaeth.com/rpc
