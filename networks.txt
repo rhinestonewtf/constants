@@ -56,3 +56,4 @@ ZkSyncSepolia=https://zksync-sepolia.g.alchemy.com/v2/${ALCHEMY_API_KEY}
 HyperEVM=https://rpc.hyperliquid.xyz/evm
 HyperEVMTestnet=https://rpc.hyperliquid-testnet.xyz/evm
 MocaTestnet=https://testnet-rpc.mechain.tech
+GeoGenesis=https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz
