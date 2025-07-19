@@ -59,3 +59,4 @@ MocaTestnet=https://testnet-rpc.mechain.tech
 GeoGenesis=https://rpc-geo-genesis-h0q2s21xx8.t.conduit.xyz
 Kaia=https://public-en.node.kaia.io
 KaiaTestnet=https://public-en-kairos.node.kaia.io
+Katana=https://rpc.katana.network
