@@ -34,6 +34,7 @@ Taiko=https://taiko-mainnet.gateway.tenderly.co
 TaikoHekla=https://taiko-hekla.gateway.tenderly.co
 Beam=https://build.onbeam.com/rpc
 BeamTestnet=https://build.onbeam.com/rpc/testnet
+Monad=https://rpc1.monad.xyz
 MonadTestnet=https://testnet-rpc.monad.xyz
 Airdao=https://network.ambrosus.io
 AirdaoTestnet=https://network.ambrosus-test.io
