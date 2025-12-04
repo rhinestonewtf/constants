@@ -65,3 +65,4 @@ Katana=https://rpc.katana.network
 Edu=https://rpc.edu-chain.raas.gelato.cloud
 EduTestnet=https://open-campus-codex-sepolia.drpc.org
 Plasma=https://rpc.plasma.to
+SophonTestnet=https://zksync-os-testnet-sophon.zksync.dev
