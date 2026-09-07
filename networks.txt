@@ -67,3 +67,4 @@ EduTestnet=https://open-campus-codex-sepolia.drpc.org
 Plasma=https://rpc.plasma.to
 SophonTestnet=https://zksync-os-testnet-sophon.zksync.dev
 MocaMainnet=https://rpc.mocachain.dev/?key=${MOCA_API_KEY}
+XLayer=https://xlayer-mainnet.g.alchemy.com/v2/${ALCHEMY_API_KEY}
